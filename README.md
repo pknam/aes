@@ -1,4 +1,4 @@
-# AES Core Implementation #
+# AES128 Core Implementation #
 
 * You can change Irreducible Polynomial (in gf.h)
 
