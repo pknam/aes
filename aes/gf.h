@@ -5,8 +5,8 @@
 #pragma once
 
 // Irreducible Polynomial
-// #define IP 0x11B // AES standard
-#define IP 0x1E7 // assignment
+#define IP 0x11B // AES standard
+// define IP 0x1E7 // assignment
 
 // t의 n번재 비트를 0또는 1로 리턴
 #define BIT(t, n) (((1<<n)&t)>>n)
